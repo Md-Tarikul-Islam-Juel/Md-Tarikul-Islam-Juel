@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/github-banner.png)
+![Github Banner](https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/github-banner.svg)
 
 :coffee: &emsp;Connect with me!
 
