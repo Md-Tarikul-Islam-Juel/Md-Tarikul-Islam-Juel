@@ -7,7 +7,7 @@
 [![RG Badge](https://img.shields.io/badge/Research_gate-00C9AA?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mdtarikul-Juel)
 [![GS Badge](https://img.shields.io/badge/Google_Scholar-3F7EE8?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=Tv5cu2QAAAAJ&hl=en)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
