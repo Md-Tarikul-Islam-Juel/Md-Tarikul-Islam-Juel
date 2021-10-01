@@ -12,12 +12,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/html5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/css3.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/css3.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/git.svg" alt="git" width="40" height="40"/> </a>
 
 <h3 align="left">Hardwares:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/raspberry.png" alt="raspberry" width="40" height="40"/> </a>
+<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/ESP32.jpg" alt="raspberry" width="40" height="40"/> </a>
 
 <h3 align="left">Email: &emsp;md.tarikulislamjuel@gmail.com
 </h3>
