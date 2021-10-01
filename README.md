@@ -18,7 +18,7 @@
 
 <h3 align="left">Hardwares:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/raspberrypi.svg" alt="raspberry" width="40" height="40"/> </a>
+ <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/raspberrypi.svg" alt="raspberry" width="40" height="40"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/ESP32.jpg" alt="raspberry" width="40" height="40"/> </a>
 
 <h3 align="left">Email: &emsp;md.tarikulislamjuel@gmail.com
