@@ -18,6 +18,7 @@
 <a href="https://jquery.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/jquery.svg" alt="jquery" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds&gclid=CIvg9_KsqfMCFREzjgod9bEB8g" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/firebase.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://wordpress.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/wordpress.svg" alt="wordpress" width="40" height="40"/> </a>
 
 <h3 align="left">Hardwares:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
