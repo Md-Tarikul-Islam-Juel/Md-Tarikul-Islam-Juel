@@ -8,7 +8,9 @@
 [![GS Badge](https://img.shields.io/badge/Google_Scholar-3F7EE8?style=for-the-badge&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=Tv5cu2QAAAAJ&hl=en)
 
 <h3 align="left">Languages and Frameworks:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/python.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/c.svg" alt="C-programming" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/html5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/css3.svg" alt="css3" width="40" height="40"/> </a>
