@@ -23,7 +23,7 @@
 
 <h3 align="left">Hardwares:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.microchip.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/atmel.svg" alt="microchip" width="40" height="40"/> </a>
+<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/microchip.svg" alt="microchip" width="40" height="40"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/ESP32.jpg" alt="ESP32" width="40" height="40"/> </a>
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/raspberrypi.svg" alt="raspberry" width="40" height="40"/> </a>
 
