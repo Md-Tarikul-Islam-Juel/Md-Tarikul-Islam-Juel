@@ -27,12 +27,6 @@
 <h3 align="left">Email: &emsp;md.tarikulislamjuel@gmail.com
 </h3>
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><a href="https://md-tarikul-islam-juel.github.io/calculator">Calculator</a></li>
-  <li><a href="https://md-tarikul-islam-juel.github.io/todo">Todo</a></li>
-</ul>
-
 <br/>
 
 #### Profile Visits:
