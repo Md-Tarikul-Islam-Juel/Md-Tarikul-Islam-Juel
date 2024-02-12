@@ -9,14 +9,11 @@
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/c.svg" alt="C-programming" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/python.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/flutter.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://nestjs.com" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/nestjs.svg" alt="NestJs" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/html5.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/css3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://wordpress.org/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/wordpress.svg" alt="wordpress" width="40" height="40"/> </a>
+
 
 <h3 align="left">Hardwares:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/arduino.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -29,6 +26,3 @@
 
 <br/>
 
-#### Profile Visits:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Md-Tarikul-Islam-Juel.Md-Tarikul-Islam-Juel)
