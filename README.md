@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/me.jpeg)
+![Github Banner](https://github.com/Md-Tarikul-Islam-Juel/Md-Tarikul-Islam-Juel/blob/main/img/me.jpg)
 
 <h3 align="left">Connect with me!:</h3>
 
