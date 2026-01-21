@@ -71,8 +71,5 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Md-Tarikul-Islam-Juel&color=blueviolet&style=flat-square&label=Profile+Views)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Tarikul-Islam-Juel&theme=radical&hide_border=true)
-
 </div>
-
 ---
