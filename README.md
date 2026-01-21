@@ -69,10 +69,12 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Md-Tarikul-Islam-Juel&color=blueviolet&style=flat-square&label=Total+Views)
-
-![Unique Views](https://visitor-badge.laobi.icu/badge?page_id=Md-Tarikul-Islam-Juel.Md-Tarikul-Islam-Juel&left_color=blueviolet&right_color=blueviolet&left_text=Unique+Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=Md-Tarikul-Islam-Juel&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Tarikul-Islam-Juel&theme=radical&hide_border=true)
 
 </div>
+
+---
+
+> **Note:** For private analytics, check your repository's **Insights** tab (only visible to you as the repository owner).
