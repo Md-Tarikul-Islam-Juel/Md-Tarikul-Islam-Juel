@@ -78,16 +78,3 @@
 </div>
 
 ---
-
-### 📊 **Best Options for 100% Accurate Unique View Count:**
-
-1. **GitHub Insights** (Most Accurate & Private) ⭐
-   - Go to your repository → Click **"Insights"** tab
-   - View **"Traffic"** section for accurate unique visitors
-   - Only visible to you (repository owner)
-   - Shows: Unique visitors, total views, referrers, popular content
-
-2. **Visitor Badge Services** (Public Display)
-   - Shows approximate unique visitor count
-   - Visible to everyone viewing your README
-   - Less accurate than GitHub Insights but good for public display
