@@ -71,10 +71,23 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Md-Tarikul-Islam-Juel&color=blueviolet&style=flat-square&label=Profile+Views)
 
+![Unique Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Md-Tarikul-Islam-Juel.Md-Tarikul-Islam-Juel&lcolor=blueviolet&color=blueviolet)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Tarikul-Islam-Juel&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-> **Note:** For private analytics, check your repository's **Insights** tab (only visible to you as the repository owner).
+### 📊 **Best Options for 100% Accurate Unique View Count:**
+
+1. **GitHub Insights** (Most Accurate & Private) ⭐
+   - Go to your repository → Click **"Insights"** tab
+   - View **"Traffic"** section for accurate unique visitors
+   - Only visible to you (repository owner)
+   - Shows: Unique visitors, total views, referrers, popular content
+
+2. **Visitor Badge Services** (Public Display)
+   - Shows approximate unique visitor count
+   - Visible to everyone viewing your README
+   - Less accurate than GitHub Insights but good for public display
