@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Backend Engineer (NestJS)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=backend+solution+using+NestJs;deployment+using+AWS%2C+Hetzner%2C+contabo;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=backend+solution+using+NestJs;deployment+using+AWS%2C+Hetzner%2C+contabo;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
@@ -70,8 +70,6 @@
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Md-Tarikul-Islam-Juel&color=blueviolet&style=flat-square&label=Profile+Views)
-
-![Unique Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Md-Tarikul-Islam-Juel.Md-Tarikul-Islam-Juel&lcolor=blueviolet&color=blueviolet)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Tarikul-Islam-Juel&theme=radical&hide_border=true)
 
